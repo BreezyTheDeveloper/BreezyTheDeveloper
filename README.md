@@ -1,8 +1,6 @@
 ## Hey 👋, I'm [Jordan!](https://github.com/BreezyTheDeveloper)
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gifhttps://cdn.discordapp.com/attachments/1133272121225781361/1133272967095275640/standard.gif"/>
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/cUxwn4DREj)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vice-development.tebex.io/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/BreezyTheDeveloper)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/cUxwn4DREj) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vice-development.tebex.io/) [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/BreezyTheDeveloper)
 
 
 ### Languages and Tools:
