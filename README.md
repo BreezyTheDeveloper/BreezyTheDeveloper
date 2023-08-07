@@ -13,7 +13,13 @@
 ### ⚙️ My Resources:
 
 - OS: Windows 10 PRO
-- Gaming PC: Great Specs
+- Gaming PC: 
+CPU: Ryzen 5 1600
+RAM: Corsair VENGEANCE® RGB PRO 32GB (4 x 8GB)
+C Drive: Inland Professional 256 GB SSD
+Drive 2 (Game Drive): Seagate Barracuda 3TB
+Drive 3 (FiveM Drive): Seagate Barracuda 4TB
+GPU: AMD Radeon RX 580 (8 GB)
 - Browser: Chrome & Brave
 - Code Editor: VSCode - Notepad++ 
 - Stay Updated: [Discord](https://discord.gg/cUxwn4DREj), and [Email](mailto:camsjj2018@gmail.com)
